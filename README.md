@@ -1,6 +1,8 @@
 # NobleHillResort
 > Landing page for a resort.
 
+![demo](/NobleHillResort/demo/NobleHillResize.gif)
+
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
